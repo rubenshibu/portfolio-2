@@ -1,0 +1,107 @@
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:500;
+}
+.title-image{
+  width:70%;
+}
+#intro{
+  background-color: #232a34;
+  color: white;
+  padding-bottom: 3%;
+}
+h1{
+  font-family:Jomhuria, cursive;
+  font-size: 130px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:300;
+}
+h4{
+  font-size: 20px;
+}
+.navbar-nav{
+  padding:4% 0 0 9%;
+}
+.nav-link{
+  font-size: 20px;
+}
+.row{
+  margin:0;
+  padding:0 5% 5% 5%;
+  align-items: center;
+}
+.profile{
+  padding-left: 100px;
+}
+#about-me{
+  padding-top: 5%;
+  color: #000;
+  background-color: #d9d8d4;
+}
+hr{
+  border-style: dotted none none;
+  border-color:black;
+  border-width:5px;
+  width:5%;
+  margin-top: 3%;
+}
+.card-deck{
+  margin:0;
+}
+.card-text{
+  margin-top: 20px;
+}
+.skills{
+  background-color: #232a34;
+  color: white;
+}
+.carousel-skills{
+  height: 500px;
+}
+.carousel-item{
+  padding:5% 8%;
+}
+.carousel-inner{
+  height:730px;
+}
+.ach1 {
+  background-color: #2d343e;
+  padding: 3%;
+}
+.ach2{
+  margin-top: 20px;
+  padding: 3%;
+  background-color: #2d343e;
+}
+.table{
+  margin-top: 5%;
+}
+.skl{
+margin-top: 10px;
+
+}
+.progress{
+margin-bottom: 10px;
+}
+.bottom-container {
+  background-color: white;
+  text-align: center;
+  color: black;
+  margin-top: 3%;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.btn{
+  margin-top: 20px;
+}
+.fab {
+  width: 50px;
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
+}
